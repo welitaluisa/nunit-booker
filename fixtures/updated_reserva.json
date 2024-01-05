@@ -1,0 +1,11 @@
+{
+    "firstname" : "Samuca",
+    "lastname" : "Update",
+    "totalprice" : 1588,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2024-01-02",
+        "checkout" : "2024-01-06"
+    },
+    "additionalneeds" : "NotBreakfast"
+}
